@@ -14,4 +14,4 @@ print("Şifreniz:", password)
 
 while True:
     if sayi==0:
-        print("bu parola çok uzun, siteler kabul etmeyebilir")
+        print("geçersiz.")
